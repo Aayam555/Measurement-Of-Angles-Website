@@ -1,3 +1,3 @@
 # Measurement of Angles
 
-Website Link: https://measurementofangles.nelify.app
+Website Link: https://measurementofangles.netlify.app
